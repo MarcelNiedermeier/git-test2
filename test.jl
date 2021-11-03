@@ -12,4 +12,3 @@ println("and this!")
 
 println("now we're on a branch")
 println("next change")
-println("change master")
